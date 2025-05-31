@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This is is some file tio mess up with later
-=======
 creating new file4.txt
->>>>>>> 01921d6 (added file4)
